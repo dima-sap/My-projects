@@ -5,6 +5,7 @@
 # Author: Dmitry Sapojnikov
 # Course: BIU DevSecOps 19
 # Lecturer: Yuval Shaul
+# Date: 5.3.2025
 
 error() { echo -e "$[ERROR] $1" >&2; }
 info()  { echo -e "$[INFO] $1"; }
